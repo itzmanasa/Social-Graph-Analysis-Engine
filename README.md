@@ -50,9 +50,3 @@ The project demonstrates core Data Structures and Algorithms concepts through fe
 * Understanding graph-based relationships
 * Learning graph traversal concepts in C
 * Practicing DSA implementation through real-world systems
-
----
-
-## Author
-
-Manasa
